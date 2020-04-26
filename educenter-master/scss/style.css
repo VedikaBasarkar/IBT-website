@@ -171,8 +171,9 @@ h6, .h6 {
 }
 
 .btn-primary:hover {
-  background: #008479;
+  background: #fff;
   color: #00b7a8;
+  border: 1px solid #00b7a8;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active,
@@ -658,7 +659,7 @@ link:focus,
           box-shadow: 0px 3px 9px 0px rgba(0, 0, 0, 0.12);
   border-bottom: 5px solid #00b7a8;
   padding: 15px;
-  top: 96px;
+  top: 75px;
   border-radius: 0;
   display: block;
   visibility: hidden;

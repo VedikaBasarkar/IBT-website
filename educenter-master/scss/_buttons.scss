@@ -71,8 +71,9 @@
   }
 
   &:hover {
-    background: darken($color: $primary-color, $amount: 10);
+    background: #fff;
     color: $primary-color;
+    border: 1px solid $primary-color;
   }
 }
 
