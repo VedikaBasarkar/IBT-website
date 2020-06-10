@@ -305,3 +305,8 @@ textarea.form-control{
 .img-height-180{
   height: 180px;
 }
+.activities{
+  .nav-pills .nav-link.active{
+    background-color: $primary-color;
+  }
+}

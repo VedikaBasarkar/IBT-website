@@ -544,6 +544,10 @@ textarea.form-control {
   height: 180px;
 }
 
+.activities .nav-pills .nav-link.active {
+  background-color: #00b7a8;
+}
+
 .top-header {
   font-size: 12px;
   -webkit-transition: -webkit-transform .2s ease;
