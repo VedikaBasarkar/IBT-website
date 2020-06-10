@@ -536,8 +536,12 @@ textarea.form-control {
   height: 500px;
 }
 
-.img-height-250 {
-  height: 250px;
+.img-height-230 {
+  height: 230px;
+}
+
+.img-height-180 {
+  height: 180px;
 }
 
 .top-header {
