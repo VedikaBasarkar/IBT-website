@@ -536,6 +536,10 @@ textarea.form-control {
   height: 500px;
 }
 
+.img-height-250 {
+  height: 250px;
+}
+
 .top-header {
   font-size: 12px;
   -webkit-transition: -webkit-transform .2s ease;
