@@ -501,7 +501,7 @@ a h4:hover {
   font-size: 20px;
   top: 50%;
   left: -5px;
-  color: #fff;
+  color: #1e1e4b;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
@@ -1072,7 +1072,7 @@ link:focus,
 }
 
 .bg-footer {
-  background-color: #182b45;
+  background-color: #2f2519;
 }
 
 .logo-footer {
